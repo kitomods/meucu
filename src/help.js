@@ -1,11 +1,13 @@
 const help = (prefix) => {
 	return `
-「 *Toin BOT* 」
+   𝗠𝗢𝗕 𝗕𝗢𝗧 𝗗𝗢𝗠𝗜𝗡𝗔
 
-◪ *informações*
+◪ 
   ❏ Prefix: 「  ${prefix}  」
-  ❏ Criador : Toin
-  ❏ Como instalar o BOT: https://www.youtube.com/watch?v=4cjhlXo9aGo
+  ❏ Criador : 卐𝙈𝙊𝘽𝘿𝙔𝘾𝙆卐 & 𝗔𝗟𝗩𝗔
+  𝗖𝗧𝗧 𝙈𝙊𝘽=wa.me/5581983058961
+  𝗖𝗧𝗧 𝗔𝗟𝗩𝗔=wa.me/558183648729
+    ${prefix}criador
 
 ◪ *SOBRE*
   │
@@ -16,8 +18,8 @@ const help = (prefix) => {
   └─ ❏ ${prefix}bugreport
 ◪ *FAZER*
   │
+  ├─ ❏ ${prefix}fig
   ├─ ❏ ${prefix}sticker
-  ├─ ❏ ${prefix}stickergif
   ├─ ❏ ${prefix}toimg
   ├─ ❏ ${prefix}tomp3
   ├─ ❏ ${prefix}bpink
